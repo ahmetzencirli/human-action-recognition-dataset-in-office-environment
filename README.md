@@ -3,4 +3,4 @@ Skeleton based human action recognition dataset which consists skeleton keypoint
 
 There are 14 subjects on this dataset and 5 classes. Classes are using computer, writing note, using phone, standing and walking.
 
-Every row has 34 keypoint coordinates, 6 distance features and 4 angle features.
+Every row has 34 keypoint coordinates, 6 distance features, 4 angle features, subject and class.
